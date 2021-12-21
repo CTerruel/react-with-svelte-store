@@ -1,0 +1,9 @@
+.shipping-address {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1em;
+}
+.current-address {
+    padding: 2em;
+    border: 2px dashed green;
+}

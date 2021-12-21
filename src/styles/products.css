@@ -1,0 +1,12 @@
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
